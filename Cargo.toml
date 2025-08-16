@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "GPL-2.0-only"
 repository = "https://github.com/ARyaskov/kira_cdh_compat_lsh"
+documentation = "https://docs.rs/kira_cdh_compat_lsh"
 description = "Candidate search (LSH/MinHash & KMV) for high-identity sequence clustering pipelines compatible with CD-HIT outputs."
 categories = ["science", "algorithms"]
 keywords = ["lsh", "minhash", "kmv", "bioinformatics", "clustering"]
